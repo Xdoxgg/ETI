@@ -3,7 +3,7 @@ using UnityEngine;
 public class CameraControl : MonoBehaviour
 {
     private float _sensitivity = 2f;
-    private float _maxYAngle = 80.0f;
+    private float _maxYAngle = 73.0f;
     private float _rotationX = 0.0f;
     void Update()
     {
